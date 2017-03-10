@@ -1,0 +1,6 @@
+{
+  "name": "test-my-app-1000”,
+  "description": “a test”,
+  "logo": "logo.png",
+  "keywords": ["node", "express", "static"] 
+}
