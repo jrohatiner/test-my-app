@@ -1,0 +1,23 @@
+{
+  "name": "test-my-app-1000",
+  "version": "0.1.1",
+  "description": "test-my-app-1000",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "handlebars": "4.0.6",	
+    "express": "4.13.3"
+  },
+  "keywords": [
+    "node",
+    "test-my-app-1000",
+    "express"
+  ],
+  "license": "MIT"
+}
